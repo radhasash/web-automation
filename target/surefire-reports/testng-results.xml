@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11984" started-at="2017-01-31T19:51:17Z" finished-at="2017-01-31T19:51:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11984" started-at="2017-01-31T19:51:17Z" finished-at="2017-01-31T19:51:29Z">
+      <class name="com.test1.test.MyAccountPageTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.test1.test.MyAccountPageTest@2d6e8792]" name="f" duration-ms="11954" started-at="2017-01-31T13:51:17Z" finished-at="2017-01-31T13:51:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.test1.test.MyAccountPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
